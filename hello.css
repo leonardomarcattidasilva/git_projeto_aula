@@ -10,8 +10,9 @@ body {
    min-height: 100vh;
 }
 
-header, footer {
-   background-color: gray;
+header,
+footer {
+   background-color: darkgray;
    display: flex;
    flex-flow: row nowrap;
    justify-content: center;
